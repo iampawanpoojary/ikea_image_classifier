@@ -1,4 +1,4 @@
-# ikea_image_classifier
+# image_classifier
 
 # The file "ikea_find_product.ipynb" in the master directory contains the code for the model.
 # I have added a link to google colab , if you need to run the code yourself just click on "run in google colab" on top, in the ipynb file.
